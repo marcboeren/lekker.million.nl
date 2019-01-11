@@ -1,0 +1,14 @@
+
+title: Lekker uit eten in...
+name: "In..."
+
+pages:
+  filter:
+    type: uit-eten
+  order: title asc
+
+  groups:
+    - by: plaats asc
+      title: "Lekker uit eten in {{ group|title }}"
+      name: "{{ group|title }}"
+      order: title asc

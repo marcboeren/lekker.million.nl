@@ -1,0 +1,17 @@
+
+title: Lekker eten
+name: Eten
+
+menu-order: ["...", gang, opzn, met]
+
+pages:
+  filter:
+    type: eten
+  order: title asc
+
+  groups:
+    - by: soort asc
+      by-order: [vlees, vis, vega, vegan, salade, soep, "..."]
+      title: "{{ group|capitalize }} eten"
+      name: "{{ group|capitalize }}"
+      order: title asc

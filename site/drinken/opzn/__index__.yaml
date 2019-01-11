@@ -1,0 +1,14 @@
+
+title: Lekker drinken op z'n...
+name: "Op z'n..."
+
+pages:
+  filter:
+    type: drinken
+  order: name asc
+
+  groups:
+    - by: herkomst asc
+      title: "Lekker drinken op z'n {{ group|capitalize }}"
+      name: "{{ group|capitalize }}"
+      order: title asc

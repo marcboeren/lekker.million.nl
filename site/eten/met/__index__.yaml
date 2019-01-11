@@ -1,0 +1,14 @@
+
+title: Lekker eten met...
+name: "Ingrediënten..."
+
+pages:
+  filter:
+    type: eten
+  order: name asc
+
+  groups:
+    - by: ingredienten asc
+      title: "Lekker eten met {{ group }}"
+      name: "{{ group|capitalize }}"
+      order: title asc

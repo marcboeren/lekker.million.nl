@@ -1,0 +1,14 @@
+
+title: Lekker uit eten op z'n...
+name: "Op z'n..."
+
+pages:
+  filter:
+    type: uit-eten
+  order: title asc
+
+  groups:
+    - by: keuken asc
+      title: "Lekker uit eten op z'n {{ group|capitalize }}"
+      name: "{{ group|capitalize }}"
+      order: title asc

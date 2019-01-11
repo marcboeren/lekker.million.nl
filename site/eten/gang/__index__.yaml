@@ -1,0 +1,15 @@
+
+title: Lekker ...gerecht eten
+name: "Gang..."
+
+pages:
+  filter:
+    type: eten
+  order: name asc
+
+  groups:
+    - by: gang desc
+      by-order: [lunch, voor, hoofd, bij, na, "..."]
+      title: "Lekker {{ group }}gerecht eten"
+      name: "{{ group|capitalize }}"
+      order: title asc

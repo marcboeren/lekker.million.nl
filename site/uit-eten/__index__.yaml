@@ -1,0 +1,10 @@
+
+title: Lekker uit eten
+name: Uit eten
+
+menu-order: ["...", in, opzn]
+
+pages:
+  filter:
+    type: uit-eten
+  order: title asc

@@ -1,0 +1,32 @@
+{% extends "_templates/site.html" %}
+{% block title %}{{ index.config.title }}{% endblock %}
+
+{% block content %}
+
+  <h1>{{ index.config.title }}</h1>
+
+  {% if index.pages %}
+  <div class="tiles">
+  {% for page in index.pages %}
+    <div class="tile">
+      <a href="{{ page.url }}" class="card">
+        <img src="{{ page.config.image }}">
+        <header>{{ page.config.title }}</header>
+        <p>{{ page.config.description }}</p>
+        <div class="typeinfo type-{{ page.config.type }}"><span class="typeicon">{% include "style/" + page.config.type + ".svg" %}</span>
+        {% if page.config.type == "eten" %}
+          {{ page.config.soort }}
+          <div class="bereidingstijd">{{ page.config.bereidingstijd }}</div>
+        {% elif page.config.type == "drinken" %}
+          {{ page.config.soort }}
+        {% elif page.config.type == "uit-eten" %}
+          {{ page.config.keuken|capitalize }} in {{ page.config.plaats|title }}
+        {% endif %}
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+  {% endif %}
+
+{% endblock %}

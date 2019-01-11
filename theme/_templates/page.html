@@ -1,0 +1,10 @@
+{% extends "_templates/site.html" %}
+{% block title %}{{ page.config.title }}{% endblock %}
+{% block canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endblock %}
+
+{% block content %}
+
+  <h1>{{ page.config.title }}</h1>
+  {{page.content|safe}}
+
+{% endblock %}

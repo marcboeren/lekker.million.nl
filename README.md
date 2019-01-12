@@ -43,8 +43,6 @@ De laatste versie van de site is intern te vinden op
 
     ---
 
-    ![Foto van titel zonder hoofdletters](/files/eten/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg)
-
     Een intro-verhaaltje wat wij ervan vinden?
 
     ## Ingrediënten
@@ -93,8 +91,6 @@ De laatste versie van de site is intern te vinden op
 
     ---
 
-    ![Foto van titel zonder hoofdletters](/files/drinken/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg)
-
     **Vet-gedrukt intro**
 
     Verhaaltje
@@ -117,8 +113,6 @@ De laatste versie van de site is intern te vinden op
     waardering: +/++/+++
 
     ---
-
-    ![Foto van titel zonder hoofdletters](/files/uit-eten/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg)
 
     **Vet-gedrukt intro**
 

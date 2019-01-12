@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van soep van kool, brood, en ansjovis uit de oven](/files/eten/soep-van-kool-brood-en-ansjovis.jpg)
-
 Lekkere stevige soep
 
 ## Ingrediënten

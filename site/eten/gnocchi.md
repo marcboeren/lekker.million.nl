@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van gnocchi](/files/eten/gnocchi.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

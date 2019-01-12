@@ -19,9 +19,6 @@ ingredienten:
 
 ---
 
-![Foto van titel zonder hoofdletters](/files/eten/orecchiette-cacio-e-pepe-con-cavolo-nero.jpg)
-
-
 ## Ingrediënten
 
 *voor 4 personen*

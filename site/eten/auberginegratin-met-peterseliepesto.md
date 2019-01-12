@@ -24,8 +24,6 @@ menu: "eten-gang-hoofd"
 
 ---
 
-![Foto van auberginegratin met peterseliepesto](/files/eten/auberginegratin-met-peterseliepesto.jpg)
-
 Heerlijke ovenschotel met aubergine en 3 kazen. De zelfgemaakte pesto van peterselie en pijnboompitten past er ook erg goed bij.
 
 ## Ingrediënten

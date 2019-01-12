@@ -14,8 +14,6 @@ waardering: +/++/+++
 
 ---
 
-![Foto van titel zonder hoofdletters](/files/drinken/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg)
-
 **Vet-gedrukt intro**
 
 Verhaaltje

@@ -21,9 +21,6 @@ ingredienten:
 
 ---
 
-
-![Foto van Salmorejo koude tomatensoep](/files/eten/salmorejo-het-neefje-van-gazpacho.jpg)
-
 Koude tomatensoep gepureerd met brood, olie en olijfolie
 
 ## Ingrediënten

@@ -14,9 +14,6 @@ waardering: +++
 
 ---
 
-![Foto van etiket van Pommery Brut champagne](/files/drinken/pommery-brut.jpg)
-
-
 **Onze go-to champagne**
 
 Lekker, niet te gek duur, goeie combi :)

@@ -14,9 +14,6 @@ waardering: +++
 
 ---
 
-![Foto van Il Tartufo in Delft](/files/uit-eten/il-tartufo-delft.jpg)
-
-
 **Italiaanse gezelligheid**
 
 Lekker, niet te gek duur, goeie combi :)

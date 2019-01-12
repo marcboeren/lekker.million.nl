@@ -22,8 +22,6 @@ ingredienten:
 
 ---
 
-![Foto van kruidensalade met citroendressing](/files/eten/kruidensalade-met-citroendressing.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

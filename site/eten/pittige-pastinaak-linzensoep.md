@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van pastinaak linzensoep](/files/eten/pittige-pastinaak-linzensoep.jpg)
-
 Kruidige stevige maaltijdsoep, hoewel het zo stevig is dat je misschien niet meer van soep kunt spreken.
 
 ## Ingrediënten

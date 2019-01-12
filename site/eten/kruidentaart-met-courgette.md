@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van kruidentaart met courgette](/files/eten/kruidentaart-met-courgette.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

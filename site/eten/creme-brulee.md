@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van crème brûlée](/files/eten/creme-brulee.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

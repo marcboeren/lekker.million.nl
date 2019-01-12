@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van Japanse noedelsoep met kipreepjes en paddenstoelen](/files/eten/japanse-noedelsoep-met-kipreepjes-en-paddestoelen.jpg)
-
 ## Ingrediënten
 
 *voor 2 personen*

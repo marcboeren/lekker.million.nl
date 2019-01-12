@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van gegrilde kip met chermoula](/files/eten/gegrilde-kip-met-chermoula.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

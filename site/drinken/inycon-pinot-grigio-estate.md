@@ -14,8 +14,6 @@ waardering: +++
 
 ---
 
-![Foto van Inycon Pinot Grigio Estate Edition](/files/drinken/inycon-pinot-grigio-estate.jpg)
-
 **Inycon is al favoriet maar de Estate is extra lekker**
 
 

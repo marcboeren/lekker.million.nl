@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van bladerdeeg pakketjes met groenselderij en brie](/files/eten/bladerdeeg-pakketjes-met-bleekselderij-en-brie.jpg)
-
 ## Ingrediënten
 
 *voor 2 personen*

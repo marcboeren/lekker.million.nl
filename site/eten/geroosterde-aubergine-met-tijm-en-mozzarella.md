@@ -19,8 +19,6 @@ ingredienten:
 
 ---
 
-![Foto van geroosterde aubergine met tijm en mozzarella](/files/eten/geroosterde-aubergine-met-tijm-en-mozzarella.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

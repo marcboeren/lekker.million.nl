@@ -20,9 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van titel zonder hoofdletters](/files/eten/biefstukspiesen-met-chimichurri.jpg)
-
-
 ## Ingrediënten
 
 *voor 4 personen*

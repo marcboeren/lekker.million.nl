@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van gegrilde courgette met kikkererwten geitenkaas en munt](/files/eten/gegrilde-courgette-met-kikkererwten-geitenkaas-en-munt.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

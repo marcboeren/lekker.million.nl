@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van bieten borani](/files/eten/bieten-borani.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

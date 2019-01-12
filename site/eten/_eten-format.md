@@ -22,8 +22,6 @@ ingredienten:
 
 ---
 
-![Foto van titel zonder hoofdletters](/files/eten/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg)
-
 Een intro-verhaaltje wat wij ervan vinden?
 
 ## Ingrediënten

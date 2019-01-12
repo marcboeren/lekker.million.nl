@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van wintersalade van witte kool met rookworst](/files/eten/wintersalade-van-witte-kool-met-rookworst.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

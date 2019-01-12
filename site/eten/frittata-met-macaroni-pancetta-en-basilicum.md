@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van frittata met macaroni, pancetta en basilicum](/files/eten/frittata-met-macaroni-pancetta-en-basilicum.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

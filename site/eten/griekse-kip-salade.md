@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van griekse kip salade](/files/eten/griekse-kip-salade.jpg)
-
 ## Ingrediënten
 
 *voor 2 personen*

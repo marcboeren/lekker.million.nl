@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van groententaart](/files/eten/groententaart.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

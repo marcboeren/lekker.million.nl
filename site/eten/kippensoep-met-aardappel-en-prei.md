@@ -21,8 +21,6 @@ ingredienten:
 
 ---
 
-![Foto van kippensoep met aardappel en prei](/files/eten/kippensoep-met-aardappel-en-prei.jpg)
-
 ## Ingrediënten
 
 *voor 6 personen*

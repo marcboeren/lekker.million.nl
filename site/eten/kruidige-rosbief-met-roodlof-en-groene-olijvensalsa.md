@@ -22,8 +22,6 @@ ingredienten:
 
 ---
 
-![Foto van kruidige rosbief met roodlof en groene olijvensalsa](/files/eten/kruidige-rosbief-met-roodlof-en-groene-olijvensalsa.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

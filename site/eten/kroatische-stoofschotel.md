@@ -22,8 +22,6 @@ ingredienten:
 
 ---
 
-![Foto van Kroatische stoofschotel](/files/eten/kroatische-stoofschotel.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

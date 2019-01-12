@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van titel zonder hoofdletters](/files/eten/mexicaanse-mais-salade.jpg)
-
 Lekker frisse salade voor bij de BBQ
 
 ## Ingrediënten

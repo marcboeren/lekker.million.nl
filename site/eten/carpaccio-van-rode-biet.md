@@ -20,8 +20,6 @@ ingredienten:
 
 ---
 
-![Foto van carpaccio van rode biet](/files/eten/carpaccio-van-rode-biet.jpg)
-
 ## Ingrediënten
 
 *voor 4 personen*

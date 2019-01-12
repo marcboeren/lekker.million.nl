@@ -11,7 +11,7 @@
     <div class="tile">
       <a href="{{ page.url }}" class="card">
         {% if page.config.image %}
-          <img src="{{ page.config.image|imageattrs(500) }}" sizes="500px" alt="Foto van {{ page.config.title|lower }}">
+          <img {{ page.config.image|imageattrs(500) }} sizes="500px" alt="Foto van {{ page.config.title|lower }}">
         {% endif %}
         <header>{{ page.config.title }}</header>
         {% if page.config.description %}

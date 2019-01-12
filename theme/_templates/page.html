@@ -7,7 +7,7 @@
   <h1>{{ page.config.title }}</h1>
 
   {% if page.config.image %}
-    <img src="{{ page.config.image|imageattrs(1000, 300) }}" sizes="1000px" alt="Foto van {{ page.config.title|lower }}">
+    <img {{ page.config.image|imageattrs(1000, 300) }} sizes="1000px" alt="Foto van {{ page.config.title|lower }}">
   {% endif %}
 
   {{page.content|safe}}

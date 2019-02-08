@@ -14,7 +14,7 @@ bereidingstijd: 45 min oven, 15 min
 keuken: mediterraans
 waardering: +++
 ingredienten:
-- rode biet
+- bietjes
 - feta
 - dille
 - turks brood

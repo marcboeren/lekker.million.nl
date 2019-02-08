@@ -14,7 +14,7 @@ bereidingstijd: 40 min
 keuken: werelds
 waardering: +++
 ingredienten:
-- rode biet
+- bietjes
 - ontbijtspek
 - buffelmozzarella
 

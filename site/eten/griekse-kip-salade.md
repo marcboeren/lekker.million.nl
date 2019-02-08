@@ -15,7 +15,7 @@ keuken: grieks
 waardering: ++
 ingredienten:
 - kip
-- biet
+- bietjes
 - olijf
 
 ---

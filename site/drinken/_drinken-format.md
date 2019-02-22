@@ -3,7 +3,7 @@ type: drinken
 
 title: Titel met Hoofdletters
 slug: titel-zonder-hoofdletters-en-met-afbreekstreepjes
-date: "2018-02-20"
+date: "2019-02-20"
 description: Korte omschrijving
 image: /files/drinken/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg
 

@@ -36,7 +36,7 @@ ingredienten:
 * 1 1/2 tl kerriepoeder
 * 1,5 kg kruimige aardappelen, geschild en in blokken
 * 1 gegrilde kip, geplukt en klein gesneden
-* war bieslook voor garnering
+* wat bieslook voor garnering
 
 ## Bereiding
 

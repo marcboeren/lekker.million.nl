@@ -28,7 +28,7 @@ ingredienten:
 * 200 gr cavolo nero (palmkool), harde nerven verwijderd en fijngehakt
 * olijfolie
 * 2 tl zwarte peperkorrels, grofgemalen in de vijzel
-* 100 gr Pecorino kaas, fijngeraspt
+* 100 gr Pecorino kaas, **fijn** geraspt
 
 
 ## Bereiding

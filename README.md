@@ -24,7 +24,7 @@ De laatste versie van de site is intern te vinden op
 
     title: Titel met hoofdletters
     slug: titel-zonder-hoofdletters-en-met-afbreekstreepjes
-    date: "2018-02-20"
+    date: "2019-02-20"
     description: Korte omschrijving
     image: /files/eten/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg
 
@@ -80,7 +80,7 @@ De laatste versie van de site is intern te vinden op
 
     title: Titel met Hoofdletters
     slug: titel-zonder-hoofdletters-en-met-afbreekstreepjes
-    date: "2018-02-20"
+    date: "2019-02-20"
     description: Korte omschrijving
     image: /files/drinken/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg
 
@@ -103,7 +103,7 @@ De laatste versie van de site is intern te vinden op
 
     title: Titel met Hoofdletters
     slug: titel-zonder-hoofdletters-en-met-afbreekstreepjes
-    date: "2018-02-20"
+    date: "2019-02-20"
     description: Korte omschrijving
     image: /files/uit-eten/titel-zonder-hoofdletters-en-met-afbreekstreepjes.jpg
 

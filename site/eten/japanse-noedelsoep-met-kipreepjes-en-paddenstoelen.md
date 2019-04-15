@@ -28,6 +28,7 @@ ingredienten:
 * 2,5 cm gember, klein gesneden
 * 1/2 rode peper, fijngesneden
 * 200 g kipfilet, in reepjes gesneden
+* udon noedels
 * maanzaad, kaneel, anijs, venkel, zout, chilipoeder, gevijzeld
 * 150 g paksoi, klein gesneden
 * 250 g gemengde paddestoelen, gesneden

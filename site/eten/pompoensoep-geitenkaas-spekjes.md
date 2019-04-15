@@ -44,7 +44,7 @@ ingredienten:
 
 Verwarm de oven op 180°C.
 
-Schep de pompoen, salie, komijn met olie, peper en zout door elkaar. Verdeel over een bakplaat met bakpapier. Rooster 15 minuten n de oven, voeg dan de appelblokjes toe en rooster nog 10 minuten.
+Schep de pompoen, salie, komijn met olie, peper en zout door elkaar. Verdeel over een bakplaat met bakpapier. Rooster 15 minuten in de oven, voeg dan de appelblokjes toe en rooster nog 10 minuten.
 
 Rooster de pompoenpitten lichtjes zonder olie, zet apart.
 

@@ -38,6 +38,8 @@ Heerlijke ovenschotel met aubergine en 3 kazen. De zelfgemaakte pesto van peters
 * 200 g ricotta
 * 100 g Parmezaanse kaas, geraspt
 * olijfolie
+* afbakbroodjes
+* rest van de ansjovisjes uit het blikje
 
 #### peterseliepesto
 
@@ -55,9 +57,11 @@ Verwarm de oven voor op 180°C.
 
 Grill de aubergineplakken tot ze zacht zijn, en zet apart.
 
+Smelt de ansjovisjes in een pannetje, doe er de tomatensaus bij en laat even pruttelen.
+
 Strijk 1/3 van de tomatensaus op de bodem van een ingevette ovenschaal. Leg hier een laag aubergine op, ongeveer de helft. Nogmaals 1/3 van de tomatensaus hieroverheen, en strooi hier de helft van alle 3 de kazen overheen. Dan de rest van de aubergine, de rest van de tomatensaus, en de rest van de kazen. Sprenkel hier wat olijfolie over.
 
-Zet dit 45 minuten in de oven.
+Zet dit 45 minuten in de oven. Bak in de laatste 8 minuten de afbakbroodjes mee.
 
 Doe alle ingrediënten voor de pesto met wat grof zeezout en peper in de blender en pureer tot een grof mengsel. Doe er eventueel nog wat olie bij. Zet in de koelkast tot gebruik.
 

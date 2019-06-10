@@ -40,13 +40,14 @@ ingredienten:
 * tijm
 * laurier
 * 350 ml water
+* bechamelsaus (50g boter, 60g bloem, 500ml melk)
 
 
 ## Bereiding
 
 Verwarm de oven voor op 250°C.
 
-Meng het speltmeel, kamutmeel, wat zout en peper, 2 el olijfolie en 350 ml water tot een zeer vloeibaar beslag. Laat dit een uur rusten.
+Meng het speltmeel, kamutmeel, wat zout en peper, het ei, 2 el olijfolie en 350 ml water tot een zeer vloeibaar beslag. Laat dit een uur rusten.
 
 Voor de rode saus fruit je de helft van de ui, alle knoflook en bleekselderij in wat olie. Voeg zout en tomaten toe, en kook een uur op laag vuur.
 

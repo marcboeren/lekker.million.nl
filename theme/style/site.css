@@ -114,6 +114,8 @@ aside p.copyright { color: #999; }
 .content img { max-width: 100%; max-height: 300px; line-height: 1px; margin-bottom: 1em; border: 1px solid #ccc; }
 .content ul { padding: 0 20px; margin-bottom: 1em; list-style: disc; }
 .content p > a { color: #6eb6c8; }
+.content img.with-duration { margin-bottom: 0; }
+.content p.duration { font-size: 0.9em; color: #888; }
 
 .content .tiles { column-count: auto; column-width: 250px; column-gap: 20px; }
 .content .tile { -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; padding: 0 0 20px; display: inline-block; }

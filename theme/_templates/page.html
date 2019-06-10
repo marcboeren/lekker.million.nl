@@ -18,8 +18,15 @@
 
   <h1>{{ page.config.title }}</h1>
 
-  {% if page.config.image %}
-    <img {{ page.config.image|imageattrs(1000, 300) }} sizes="1000px" alt="Foto van {{ page.config.title|lower }}">
+  {% if page.config.bereidingstijd %}
+    {% if page.config.image %}
+      <img class="with-duration" {{ page.config.image|imageattrs(1000, 300) }} sizes="1000px" alt="Foto van {{ page.config.title|lower }}">
+    {% endif %}
+    <p class="duration">Bereiding {{ page.config.bereidingstijd }}</p>
+  {% else %}
+    {% if page.config.image %}
+      <img {{ page.config.image|imageattrs(1000, 300) }} sizes="1000px" alt="Foto van {{ page.config.title|lower }}">
+    {% endif %}
   {% endif %}
 
   {{page.content|safe}}
